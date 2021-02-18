@@ -3,7 +3,9 @@
 // import './index.css';
 import App from './App';
 // import reportWebVitals from './reportWebVitals';
+
 //ПРоверка коммитов
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
