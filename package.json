@@ -22,7 +22,6 @@
     "*.{js,jsx,ts,tsx}": "npm run lint"
   },
   "scripts": {
-    "postinstall": "husky install",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
